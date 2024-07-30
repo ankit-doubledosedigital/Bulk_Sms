@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-send-bulk-sms",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.19.0"
+  }
+}
